@@ -104,21 +104,6 @@ video {
   background-color: #3B1D70;
 }
 
-/*
-#local-video {
-  grid-row: 1; grid-column: 1;
-}
-#js-remote-streams0 {
-  grid-row: 1; grid-column: 2;
-}
-#js-remote-streams1 {
-  grid-row: 2; grid-column: 2;
-}
-#js-remote-streams2 {
-  grid-row: 2; grid-column: 1;
-}
-*/
-
 .camera-btn{
   display: inline-block;
   text-decoration: none;
